@@ -250,12 +250,10 @@ GOOS=windows GOARCH=amd64 go build -o joplin-replace-windows-amd64.exe
 
 ## Contributing
 
-Contributions are welcome! Please:
+If you really must:
 1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests
-5. Submit a pull request
+2. ...
+3. PROFIT!
 
 ## License
 
