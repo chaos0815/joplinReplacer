@@ -270,6 +270,8 @@ MIT License - see LICENSE file for details
 
 ## Support
 
-For issues, questions, or contributions:
-- **Issues**: [GitHub Issues](https://github.com/chaos0815/joplinReplacer/issues)
-- **Documentation**: [Joplin API Docs](https://joplinapp.org/api/references/rest_api/)
+Sorry for the AI slop, but I was in dire need of fixing >4000 borked notes.
+I can't give support for this as I hope it was a once only use.
+
+Putting it up, as it worked for me, and in case someone is in a similar situation.
+
